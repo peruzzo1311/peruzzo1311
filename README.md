@@ -23,5 +23,6 @@ Sinta-se à vontade para entrar em contato comigo para discutir
 oportunidades de colaboração ou para saber mais sobre minha
 experiência e competências.
 
-<a href="https://www.linkedin.com/in/gustavo-peruzzo-58364520a/">Meu LinkedIn</a>
-email: gustavoperuzzo1311@hotmail.com
+Linkedin: https://www.linkedin.com/in/gustavo-peruzzo-58364520a/
+<br />
+Email: gustavoperuzzo1311@hotmail.com
