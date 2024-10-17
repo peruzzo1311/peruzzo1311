@@ -1,13 +1,18 @@
-Sou desenvolvedor front-end com experiência em HTML, CSS e JavaScript. Também tenho habilidades em MySQL para gerenciamento e criação de bancos de dados.
+![Status](./profile-3d-contrib/profile-night-rainbow.svg)
 
-Atualmente trabalho como desenvolvedor front-end, focando no desenvolvimento e manutenção de aplicações mobile com React Native e páginas web com Angular, além de consumir APIs RESTful.
+| [![GitHub Commits](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=peruzzo1311&theme=dracula&utcOffset=-3)](https://github.com/vn7n24fzkq/github-profile-summary-cards) | [![GitHub Details](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=peruzzo1311&theme=dracula)](https://github.com/vn7n24fzkq/github-profile-summary-cards) |
+| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 
-Sou apaixonado por criar experiências de usuário excepcionais e estou sempre buscando aprimorar minhas habilidades técnicas. Gosto de enfrentar desafios complexos e encontrar soluções inovadoras.
+  <div align="center" >
+<a href="https://skillicons.dev"   >
+  <img src="https://skillicons.dev/icons?i=git,vscode,javascript,typescript,css,html,react,next,tailwind,sass,nodejs,express,nest,vue,docker,figma,github,jest,materialui,linux,postman,styledcomponents,vercel,vite,bootstrap,mongodb,postgres,discord,linkedin,instagram" />
+</a>
+  <br />
 
-Se você está procurando um desenvolvedor dedicado e orientado para resultados, estou pronto para novos desafios e oportunidades de colaboração.
+  </div>
 
-Entre em contato para discutir oportunidades ou saber mais sobre minha experiência.
+##
 
-Linkedin: https://www.linkedin.com/in/gustavo-peruzzo-58364520a/
-<br />
-Email: gustavoperuzzo1311@hotmail.com
+   <div align="center" >
+     <img src="https://github-profile-trophy.vercel.app/?username=peruzzo1311&row=1&column=6&theme=dracula&margin-w=15&margin-h=15"/>
+  </div>
